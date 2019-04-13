@@ -48,7 +48,7 @@ void setup()
 
   qtr.setTypeRC();
   // Sensors 0 through 5 are connected to digital pins 2 through 6, respectively
-  qtr.setSensorPins((const uint8_t[]){2, 3, 4, 5, 6}, NUM_SENSORS);
+  qtr.setSensorPins((const uint8_t[]){3, 4, 5, 6, 7}, NUM_SENSORS);
   qtr.setEmitterPin(EMITTER_PIN);
 
   delay(500);

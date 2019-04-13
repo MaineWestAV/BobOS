@@ -2,5 +2,5 @@
     "sketch": "main\\main.ino",
     "board": "adafruit:samd:adafruit_metro_m4",
     "configuration": "cache=on",
-    "port": "COM8"
+    "port": "COM5"
 }
